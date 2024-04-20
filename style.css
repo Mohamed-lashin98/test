@@ -40,10 +40,10 @@ width: 100%;
   opacity: 0.6;
 }
 
-.active-image {
+
+.product-navigate .active-image {
   border: 2px solid blue;
- opacity: 1;
-  
+  opacity: 1;
 }
 
 
@@ -237,8 +237,13 @@ border: none;
 
 
 .policy div i{
+  text-align: center;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
   color: #2DB2D4;
   background-color:#EAF8FB ;
+  border-radius: 4px;
 }
 
 .caption{
